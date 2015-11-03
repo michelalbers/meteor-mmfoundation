@@ -2,7 +2,7 @@ Package.describe({
   name: 'interwebs:mm-foundation',
   version: '1.0.0',
   summary: 'Wrapper for angular mm-foundation (http://pineconellc.github.io/angular-foundation/)',
-  git: ''
+  git: 'https://github.com/michelalbers/meteor-mmfoundation'
 });
 
 Package.onUse(function(api) {
