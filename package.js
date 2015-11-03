@@ -7,6 +7,6 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.3');
-  api.use('urigo:angular');
+  api.use('urigo:angular@1.0.4');
   api.addFiles('mm-foundation-tpls-0.6.0.js', ['client']);
 });
